@@ -2,7 +2,6 @@
 
 ###
 
-
 <h3 align="left">💻A Passionate Full-Stack Developer<br><br>🤖Currently Working On New AI Projects<br><br>📝I regularly write articles on my blog : thehacks.xyz<br><br>📬Email me : mahadasif89@gmail.com</h3>
 
 ###
@@ -71,7 +70,9 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/SyedMahadAsif/SyedMahadAsif/output/snake.svg" alt="Snake animation" />
+<div align="left">
+  <img height="200" src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg"  />
+</div>
 
 ###
 
@@ -100,11 +101,11 @@
 
 ###
 
-<h2 align="left">AI CODE GENERATOR🤖</h2>
+<h3 align="left">AI CODE GENERATOR🤖</h3>
 
 ###
 
-<p align="left">AI Code Generator is a cutting-edge web project leveraging OpenAI's API and React.js to seamlessly generate custom code snippets based on user prompts.<br>Revolutionizing the coding experience with intelligent automation.</p>
+<p align="left">AI Code Generator is a cutting-edge web project leveraging OpenAI's API and React.js to seamlessly generate custom code snippets based on user prompts revolutionizing the coding experience with intelligent automation.</p>
 
 ###
 
@@ -114,11 +115,11 @@
 
 ###
 
-<h2 align="left">AI IMAGE GENERATOR🌆</h2>
+<h3 align="left">AI IMAGE GENERATOR🌆</h3>
 
 ###
 
-<p align="left">AI Image Generator is a revolutionary web project merging OpenAI's advanced image generation capabilities with the flexibility of React.js.<br>Empowering users to effortlessly create stunning visual content by providing intuitive prompts.</p>
+<p align="left">AI Image Generator is a revolutionary web project merging OpenAI's advanced image generation capabilities with the flexibility of React.js empowering users to effortlessly create stunning visual content by providing intuitive prompts.</p>
 
 ###
 
