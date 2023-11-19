@@ -2,11 +2,13 @@
 
 ###
 
-<h3 align="left">💻A Passionate Full-Stack Developer<br><br>🤖Currently Working On New AI Projects<br><br>📝I regularly write articles on my blog : thehacks.xyz<br><br>📬Email me : mahadasif89@gmail.com</h3>
+<div align="left">
+  <img height="200" src="https://pa1.aminoapps.com/6491/9a0c2997811df02d578f376d65f114355cc39113_hq.gif"  />
+</div>
 
 ###
 
-<img align="right" height="300" src="https://media.giphy.com/media/dLolp8dtrYCJi/giphy.gif"  />
+<h3 align="left">💻A Passionate Full-Stack Developer<br><br>🤖Currently Working On New AI Projects<br><br>📝I regularly write articles on my blog : thehacks.xyz<br><br>📬Email me : mahadasif89@gmail.com</h3>
 
 ###
 
@@ -70,12 +72,6 @@
 
 ###
 
-<div align="left">
-  <img height="200" src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg"  />
-</div>
-
-###
-
 <h2 align="left">Connect With Me📱</h2>
 
 ###
@@ -109,23 +105,11 @@
 
 ###
 
-<div align="left">
-  <img height="200" src="https://i.postimg.cc/mkGGLTLr/ai-code-generator-2.png"  />
-</div>
-
-###
-
 <h3 align="left">AI IMAGE GENERATOR🌆</h3>
 
 ###
 
 <p align="left">AI Image Generator is a revolutionary web project merging OpenAI's advanced image generation capabilities with the flexibility of React.js empowering users to effortlessly create stunning visual content by providing intuitive prompts.</p>
-
-###
-
-<div align="left">
-  <img height="200" src="https://i.postimg.cc/JhvLFbSZ/ai-image-generator.png"  />
-</div>
 
 ###
 
