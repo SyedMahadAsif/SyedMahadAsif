@@ -8,7 +8,7 @@
 
 ###
 
-<h3 align="left">💻A Passionate Full-Stack Developer<br><br>🤖Currently Working On New AI Projects<br><br>📝I regularly write articles on my blog : thehacks.xyz<br><br>📬Email me : mahadasif89@gmail.com</h3>
+<h3 align="left">💻A Passionate Full-Stack Developer<br><br>🤖Currently Working On New AI Projects<br><br>📝Checkout My Portfolio : syedmahad.vercel.app<br><br>📬Email me : mahadasif89@gmail.com</h3>
 
 ###
 
